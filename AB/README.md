@@ -4,6 +4,6 @@
 3. [Сплитилка](https://github.com/ShashlovAI/stat/blob/main/AB/split.ipynb)
 4. [Bootstrap](https://github.com/ShashlovAI/stat/blob/main/AB/bootstrap.ipynb)
 5. [Стратификация](https://github.com/ShashlovAI/stat/blob/main/AB/stratification.ipynb)
-6. [CUPED]()
+6. [CUPED](https://github.com/ShashlovAI/stat/blob/main/AB/cuped.ipynb)
 7. [Проверка на нормальность](https://github.com/ShashlovAI/stat/blob/main/AB/is_norm_distribution.ipynb)
 8. [Стат. тесты](https://github.com/ShashlovAI/stat/blob/main/AB/stat_tests.ipynb)
