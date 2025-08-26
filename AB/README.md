@@ -1,5 +1,5 @@
 # A/B тесты
-1. [Определение размера выборки и минимального детектируемого эффекта](https://github.com/ShashlovAI/stat/blob/main/AB/sample_size_and_MDE.ipynb)
+1. [Определение размера выборки и минимального детектируемого эффекта](https://nbviewer.org/github/ShashlovAI/stat/blob/main/AB/sample_size_and_MDE.ipynb)
 2. [Тестирование дизайна с использованием синтетических AA, AB тестов](https://github.com/ShashlovAI/stat/blob/main/AB/design_testing.ipynb)
 3. [Сплитилка](https://github.com/ShashlovAI/stat/blob/main/AB/split.ipynb)
 4. [Bootstrap](https://github.com/ShashlovAI/stat/blob/main/AB/bootstrap.ipynb)
